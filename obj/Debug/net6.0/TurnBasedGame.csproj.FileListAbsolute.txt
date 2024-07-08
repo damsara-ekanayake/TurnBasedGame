@@ -1,0 +1,14 @@
+F:\c# projects\TurnBasedGame\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.exe
+F:\c# projects\TurnBasedGame\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.deps.json
+F:\c# projects\TurnBasedGame\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.runtimeconfig.json
+F:\c# projects\TurnBasedGame\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.dll
+F:\c# projects\TurnBasedGame\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.pdb
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.AssemblyInfoInputs.cache
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.AssemblyInfo.cs
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.csproj.CoreCompileInputs.cache
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.dll
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\refint\TurnBasedGame.dll
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.pdb
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.genruntimeconfig.cache
+F:\c# projects\TurnBasedGame\TurnBasedGame\obj\Debug\net6.0\ref\TurnBasedGame.dll
