@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/BSrdUAa4pc4j23TjwvfH9Nj9Q6F2RZKaqrDwbsVHkf9N3Qybo7k8XdRVcFpUcnmY+Gz4tGl1EDJf53Ew/JDA==",
+  "success": true,
+  "projectFilePath": "F:\\c# projects\\TurnBasedGame\\TurnBasedGame\\TurnBasedGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
