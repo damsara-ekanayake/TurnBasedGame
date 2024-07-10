@@ -12,7 +12,15 @@ Console.WriteLine("     TURN BASED GAME\n");
 do 
 {
     PlayerTurn();
-    EnemyTurn();
+    if (isAlive)
+    {
+        EnemyTurn();
+    }
+    else
+    {
+        break;
+    }
+    
 }
 while (isAlive);
 
@@ -84,7 +92,7 @@ void PlayerAttackFunction(int attack)
         {
             enemyHp = 0;
             isAlive = false;
-            Console.WriteLine($"  ***************************\n     ENEMY DEAD. PALYER WIN\n  ***************************");
+            Console.WriteLine($"  ***************************\n     ENEMY DEAD. PLAYER WIN\n  ***************************");
         }
     }
     else if (attack >= 20 && attack <= 30)
